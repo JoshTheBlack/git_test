@@ -1,1 +1,1 @@
-This is for a Odin Project course.
+This is for an Odin Project course.
